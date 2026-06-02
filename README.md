@@ -4,7 +4,7 @@ Computer Science student at De La Salle University - Dasmarinas, specializing in
 
 <p>
   <a href="https://skillicons.dev">
-    <img alt="Current stack" src="https://skillicons.dev/icons?i=python,typescript,react,flask,sqlite,git,github&theme=light&perline=7">
+    <img alt="Current stack" src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,react,vite,supabase,flask,sqlite,git,github&theme=light&perline=11">
   </a>
 </p>
 
