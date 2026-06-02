@@ -68,7 +68,3 @@ Computer Science student at De La Salle University - Dasmarinas, specializing in
   <br>
   <a href="https://github.com/harleneee/AutomataSimulator">Repository</a> | <a href="https://automata-simulator-amber.vercel.app">Live demo</a>
 </p>
-
-## Public Notes
-
-Most of these are academic or prototype projects prepared as internship proof material. I keep original working repositories private when they contain school-only files, datasets, generated artifacts, secrets, or unfinished development history.
