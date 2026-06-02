@@ -18,11 +18,11 @@ Computer Science student at De La Salle University - Dasmarinas, specializing in
 
 <p>
   <a href="https://jason-bongon.vercel.app">
-    <img src="assets/jason-pixel-icon.png" width="72" alt="Jason pixel art">
+    <img src="assets/jason-pixel-icon.png" width="72" alt="Jason pixel art"> 
   </a>
 </p>
 
-[View My Portfolio](https://jason-bongon.vercel.app)
+[Portfolio](https://jason-bongon.vercel.app)
 
 ## Featured Work
 
@@ -35,16 +35,7 @@ Computer Science student at De La Salle University - Dasmarinas, specializing in
   <br>
   <a href="https://github.com/J0v1t/simpathy-demo">Repository</a> | <a href="https://simpathy-demo.vercel.app">Live demo</a>
 </p>
-
-<p>
-  <img src="assets/detaildash-name.png" width="145" alt="DetailDash logo">
-  <br>
-  <strong>DetailDash POS Prototype</strong>
-  <br>
-  Flask and SQLite car-wash POS workflow with auth, inventory CRUD, API routes, transactions, screenshots, and setup notes.
-  <br>
-  <a href="https://github.com/J0v1t/detaildash-pos-prototype">Repository</a>
-</p>
+<br/>
 
 <p>
   <img src="assets/myrhythm-logo.png" width="42" alt="MyRhythm logo">
@@ -55,6 +46,18 @@ Computer Science student at De La Salle University - Dasmarinas, specializing in
   <br>
   <a href="https://github.com/J0v1t/myrhythm-desktop-prototype">Repository</a>
 </p>
+<br/>
+
+<p>
+  <img src="assets/detaildash-name.png" width="145" alt="DetailDash logo">
+  <br>
+  <strong>DetailDash POS Prototype</strong>
+  <br>
+  Flask and SQLite car-wash POS workflow with auth, inventory CRUD, API routes, transactions, screenshots, and setup notes.
+  <br>
+  <a href="https://github.com/J0v1t/detaildash-pos-prototype">Repository</a>
+</p>
+<br/>
 
 <p>
   <img src="assets/automata-nocturnal-lab.png" width="145" alt="The Nocturnal Lab logo">
